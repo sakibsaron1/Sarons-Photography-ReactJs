@@ -1,0 +1,14 @@
+.service{
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+.btnimpo{
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: white;
+}

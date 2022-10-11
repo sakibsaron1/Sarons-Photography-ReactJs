@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Haldi PhotoShoot Basic",
+        "price": "10000",
+        "description": "The duration of one photographer taking photographs on your wedding day. Often, the package details up to 6 hours or up to 8 hours or from ceremony until the speeches. The length of time of the photographer taking photographs obviously affects the price of the package.",
+        "img": "https://i.ibb.co/5vP3QPb/inst-widget3-150x150.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Haldi PhotoShoot Premium",
+        "price": "15000",
+        "description": "Some wedding photographers offer the option to hire a second photographer. Most wedding photographers assume the second photographer will be there for the same length of time as the main photographer.",
+        "img": "https://i.ibb.co/Yfbyc6r/inst-widget-3-150x150.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Wedding Photoshoot Basic",
+        "price": "20000",
+        "description": "It may include a pre-wedding photo session. This is a session that takes place months before the wedding. Some people also call it an engagement photo shoot. It's like a play shoot where you can get to know your photographer, and they get to know you. More INFO ABOUT PRE-SHOOTS on this page",
+        "img": "https://i.ibb.co/xfB2mmN/inst-widget-6-150x150.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Wedding Photoshoot Premium",
+        "price": "25000",
+        "description": "The package might include a USB memory stick with the edited photographs in high resolution (this means you can use the images to make your own prints or albums online, using the suppliers you choose).",
+        "img": "https://i.ibb.co/j45T9m0/inst-widget-7-150x150.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Brand Promotion Basic",
+        "price": "30000",
+        "description": "Traditionally, photographers would include a selection of prints (6x4, or 7x5  or a large one for the wall, but not many photographers do that these days).",
+        "img": "https://i.ibb.co/8YFy6Zh/inst-widget-1-150x150.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Brand Promotion Premium",
+        "price": "35000",
+        "description": "It might include one framed wedding photograph or a canvas print for your wall. It should say the size of the frame or canvas (or other product), and when you can expect to receive it.",
+        "img": "https://i.ibb.co/sFXBbXp/inst-widget-2-150x150.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+.footer-area{
+    bottom: 0;
+    background-color: blue;
+    margin-top: 100px;
+}
+
+.footer-area h4{
+    color: #fff;
+    padding: 20px 0 ;
+
+}
